@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Abzal Suan
 #### I am Front-end dev
- I have  results-focused attitude to creating SPA, using React(JS/TS), Redux.
+ I have  a results-focused attitude to creating SPA, using React(JS/TS), Redux.
 
  My free time is dedicated to Codewars, programming tutorials, and becoming familiar with NodeJS, because, in the future, I see myself as a Full Stack Developer.
 
