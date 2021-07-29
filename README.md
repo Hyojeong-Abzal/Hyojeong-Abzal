@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Abzal Suan
 
-<!-- <img src="./AbzalSuan.png" /> -->
+<img src="./AbzalSuan.png" />
 
 #### I am Front-end dev
  I have  a results-focused attitude to creating SPA, using React(JS/TS), Redux.
