@@ -1,12 +1,12 @@
 ### Hi there 👋, my name is Abzal Suan
 
 <img src="./AbzalSuanBanner.png" />
-
+<img src="https://www.codewars.com/users/AbzalSuan/badges/large" />
 #### I am a Front-end developer
  I have  a results-focused attitude to creating SPA, using React(JS/TS), Redux.
 
  My free time is dedicated to Codewars, programming tutorials, and becoming familiar with NodeJS, because, in the future, I see myself as a Full Stack Developer.
- <img src="https://www.codewars.com/users/AbzalSuan/badges/large" />
+
 
 
 
