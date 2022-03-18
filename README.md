@@ -9,6 +9,15 @@
 I have a sufficient experience in Frontend development from small pet projects to large architectural and testable web applications.
 
 
+
+
+
+
+
+
+
+
+
 My most important skills are problem solving, proactivity and total contribution.
 
 
