@@ -4,10 +4,12 @@
 <img src="https://www.codewars.com/users/AbzalSuan/badges/large" />
 
 #### I am a Front-end developer
- I have  a results-focused attitude to creating SPA, using most popular JS frameworks as React, Vue and Angular.
+ I’m a front-end developer who has a results-focused attitude to creating SPA, using most popular frameworks as React, Vue and Angular.
+ 
+I have a sufficient experience in Frontend development from small pet projects to large architectural and testable web applications.
 
- I have a sufficient experience in Front-end development from small pet projects to large architectural and testable web applications.
 
+My most important skills are problem solving, proactivity and total contribution.
 
 
 Skills: React, Redux, JavaScript, TypeScript, HTML5, CSS3, Unit Tests, SnapShot, Storybook, Angular, Ngrx, Angular Material
