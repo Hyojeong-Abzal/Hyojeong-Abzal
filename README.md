@@ -3,8 +3,8 @@
 <img src="./AbzalSuanBanner.png" />
 <img src="https://www.codewars.com/users/AbzalSuan/badges/large" />
 
-#### I am a Front-end developer
- I’m a front-end developer who has a results-focused attitude to creating SPA, using most popular frameworks as React, Vue and Angular.
+#### I am a Front-end developer...
+ ...who has a results-focused attitude to creating SPA, using most popular frameworks as React, Vue and Angular.
  
 I have a sufficient experience in Frontend development from small pet projects to large architectural and testable web applications.
 
